@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and student at CSUMB! \
+💡 &nbsp; I'm a software developer and student at CSUMB!
 <!-- 
 
 💻 &nbsp;\
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 💬 &nbsp;\
 
 -->
-✉️ &nbsp;You can email me at 21paaguiar@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at 21paaguiar@gmail.com. I'll try to respond as soon as possible!
 
 
 ### 🛠 &nbsp;Tech Stack
